@@ -50,7 +50,7 @@ Mi enfoque: aprender rápido, escribir código limpio, construir proyectos funci
 </p>
 --> 
   
-# Top Repositorios que sigo
+# Top repositorios que sigo:
 
 ### EbookFoundation / free-programming-books  
 📘 Colección masiva de libros gratuitos sobre programación, referencia esencial para aprender nuevas tecnologías.  
