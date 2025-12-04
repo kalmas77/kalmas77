@@ -35,26 +35,21 @@ Mi enfoque: aprender rápido, escribir código limpio, construir proyectos funci
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,python,php,bash,java,cs,go" height="60" />
 </p>
-
----
-
+<!--
 # Estadísticas (modo extremo)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalmas77&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmas77&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kalmas77&theme=radical&hide_border=true" height="170"/>
 </p>
-
-<!-- Heatmap animada -->
+<!-- Heatmap animada 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalmas77&theme=react-dark&hide_border=true&area=true" />
 </p>
-
----
-
+--> 
+  
 # Repositorios que sigo (con descripción completa y enlaces)
 Aquí tienes una sección visual con **badges**, descripciones claras y enlaces incrustados:
 
@@ -87,12 +82,12 @@ Aquí tienes una sección visual con **badges**, descripciones claras y enlaces 
 ### godotengine / godot  
 🎮 Motor de videojuegos 2D y 3D multiplataforma, de código abierto, altamente utilizado en desarrollo indie.  
 **Enlace:** https://github.com/godotengine/godot
-
+<!--
 ---
 
 # Proyectos destacados
 *(Listos para que agregues tus repos reales en el futuro.)*
-<!--
+
 
 ---
 
