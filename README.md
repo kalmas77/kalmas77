@@ -19,7 +19,7 @@
 Soy estudiante de Ingeniería en Computación con especial interés en desarrollo de software, bases de datos, sistemas, herramientas modernas y tecnologías emergentes. Poseo conocimientos en Java, C#, C++, Python y fundamentos de Inteligencia Artificial, Machine Learning y Redes.
 
 Mi enfoque: aprender rápido, escribir código limpio, construir proyectos funcionales y crecer hacia el desarrollo profesional.
-
+<!--
 ---
 
 # Tecnologías y herramientas
@@ -30,7 +30,7 @@ Mi enfoque: aprender rápido, escribir código limpio, construir proyectos funci
 </p>
 
 ---
-
+-->  
 # Aprendiendo actualmente
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,python,php,bash,java,cs,go" height="60" />
@@ -92,6 +92,7 @@ Aquí tienes una sección visual con **badges**, descripciones claras y enlaces 
 
 # Proyectos destacados
 *(Listos para que agregues tus repos reales en el futuro.)*
+<!--
 
 ---
 
@@ -117,7 +118,7 @@ Descripción breve: breve funcionalidad o propósito del proyecto.
 </p>
 
 ---
-
+-->
 <!-- Footer animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c2ff,100:0a7cff&height=140&section=footer" />
