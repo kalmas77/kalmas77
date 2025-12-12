@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kalmas77"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
   <a href="https://www.linkedin.com/in/kalmas77"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 </p>
 
